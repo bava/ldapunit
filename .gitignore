@@ -1,0 +1,11 @@
+# Git Ignored Files
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+target
+.project
+.classpath
+.settings
+*.class
